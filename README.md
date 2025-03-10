@@ -6,12 +6,6 @@
 
 ###
 
-<br clear="both">
-
-<p align="left">Something something</p>
-
-###
-
 <h2 align="left">About me</h2>
 
 ###
